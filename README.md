@@ -16,4 +16,5 @@ Collection of Awesome Tools used in creating, utilizing &amp; deploying LLMs in 
 
 
 ## Eval Tools
-1. DeepEval
+1. RAGAS
+2. DeepEval
